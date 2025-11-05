@@ -20,7 +20,7 @@ Add this to your plugin configuration (e.g., `~/.config/nvim/lua/plugins/copy-fi
 
 ```lua
 return {
-  "your-username/neovim-plugins",
+  "mikko-kohtala/copy-filepath.nvim",
   dir = "copy-filepath.nvim",
   -- Load on first keymap use (lazy loading)
   keys = {
